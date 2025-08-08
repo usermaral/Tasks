@@ -1,4 +1,4 @@
-# 📝 Tasks
+# Tasks
 
 A simple To-Do List iOS app built with Swift and UIKit.  
 It allows users to create, view, edit, check off, and delete tasks, with all data stored in `UserDefaults`.
@@ -7,11 +7,11 @@ It allows users to create, view, edit, check off, and delete tasks, with all dat
 
 ## Features
 
-- 📌 Add new tasks
-- ✅ Mark tasks as completed 
-- 📝 Edit existing tasks
-- ❌ Delete tasks by swiping
-- 💾 Persistent storage via `UserDefaults`
+-  Add new tasks
+-  Mark tasks as completed 
+-  Edit existing tasks
+-  Delete tasks by swiping
+-  Persistent storage via `UserDefaults`
 
 ---
 
